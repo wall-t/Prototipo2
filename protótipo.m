@@ -19,3 +19,5 @@ while C < 50
     
 end
 B
+C
+A
